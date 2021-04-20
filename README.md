@@ -5,4 +5,4 @@
 
 [clf_invasion](https://github.com/stasikd/StepikML/blob/main/clf_invasion.ipynb) - Классификация космических кораблей по их параметрам (RandomForestClassifier)
 
-[titanic_data](https://github.com/stasikd/StepikML/blob/main/titanic_data.ipynb) - https://www.kaggle.com/c/titanic, а также дополнительные графики и метрики
+[titanic_data](https://github.com/stasikd/StepikML/blob/main/titanic_data.ipynb) - Классификация пассажиров, а также дополнительные графики и метрики (https://www.kaggle.com/c/titanic)
